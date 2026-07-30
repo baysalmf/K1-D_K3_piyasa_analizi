@@ -130,4 +130,4 @@ zorlu-piyasa-analiz/
 
 ## 📄 Lisans
 
-Bu proje Zorlu Enerji bünyesinde iş kullanım amacıyla geliştirilmiştir.
+Bu proje iş kullanım amacıyla geliştirilmiştir.
