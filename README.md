@@ -1,6 +1,6 @@
 # ⚡ Zorlu Piyasa Analiz Raporu
 
-EPİAŞ Şeffaflık Platformu üzerinden **K1+D** ve **K3** piyasa verilerini çeken, analiz eden ve raporlayan bir Streamlit uygulamasıdır.
+EPİAŞ Şeffaflık Platformu üzerinden **K1+D** ve **K3** piyasa verilerini çeken, analiz eden ve raporlayan bir web uygulamasıdır.
 
 ---
 
@@ -17,12 +17,9 @@ EPİAŞ Şeffaflık Platformu üzerinden **K1+D** ve **K3** piyasa verilerini ç
 
 ## ✨ Özellikler
 
-- **K1+D Analizi** — 21 dağıtım şirketi için UECM ve EDM dengesizlik oranı hesaplama
-- **K3 Analizi** — 21 üretim organizasyonu için NET / UEVM karşılaştırması ve WMAPE hesaplama
-- **Otomatik oturum yönetimi** — EPİAŞ CAS TGT token ile kimlik doğrulama
-- **Rate limit koruması** — 429 yanıtlarında otomatik yeniden deneme ve bekleme
+- **K1+D Analizi** — 21 GTŞ için UECM ve EDM dengesizlik oranı hesaplama
+- **K3 Analizi** — 21 GTŞ için MAPE hesaplama
 - **Excel & CSV dışa aktarım** — Tek tıkla iki sayfalı Excel raporu veya birleşik CSV
-- **Debug Mode** — Geliştirme/test sırasında API yanıtlarını ve ara hesaplamaları ekranda görme
 
 ---
 
@@ -133,4 +130,4 @@ zorlu-piyasa-analiz/
 
 ## 📄 Lisans
 
-Bu proje Zorlu Enerji bünyesinde iç kullanım amacıyla geliştirilmiştir.
+Bu proje Zorlu Enerji bünyesinde iş kullanım amacıyla geliştirilmiştir.
